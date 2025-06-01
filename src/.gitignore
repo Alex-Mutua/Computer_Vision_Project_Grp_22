@@ -1,0 +1,7 @@
+# Ignore heavy files
+*.avi
+*.mp4
+outputs/
+src/src/outputs/
+predictions/video_files/
+resources/videos/
