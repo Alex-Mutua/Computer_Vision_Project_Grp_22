@@ -10,8 +10,7 @@ pandas
 motmetrics
 scikit-learn
 seaborn
-moviepy
-numpy<2.0
-moviepy
+numpy==1.26.4
+moviepy==1.0.3
 imageio
 imageio-ffmpeg
