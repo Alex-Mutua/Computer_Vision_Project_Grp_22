@@ -6,3 +6,4 @@ numpy
 moviepy
 tensorflow
 tensorflow-hub
+opencv-python-headless
