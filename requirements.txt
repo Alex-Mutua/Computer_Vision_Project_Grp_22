@@ -11,3 +11,4 @@ pandas
 motmetrics
 scikit-learn
 seaborn
+moviepy
