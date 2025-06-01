@@ -10,3 +10,4 @@ opencv-python-headless
 pandas
 motmetrics
 scikit-learn
+seaborn
