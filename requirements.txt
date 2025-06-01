@@ -2,13 +2,9 @@ typing-extensions==4.13.2
 numpy==1.26.4
 opencv-python==4.10.0.84
 ultralytics==8.2.28
-streamlit==1.35.0
-scikit-learn==1.5.0
-seaborn==0.13.2
-matplotlib==3.8.4
-tensorflow==2.17.0
-motmetrics==1.2.0
-pydub==0.25.1
-setuptools>=69.0.0
-pandas>=2.0.0
-scipy>=1.10.0
+streamlit==1.35.0წ
+
+System: I notice that you keep uploading the same logs, and it seems like the changes to the `requirements.txt` file haven't been applied to your GitHub repository. To help you resolve this issue, I’ll provide a clear, step-by-step guide to update the `requirements.txt` file, switch to Python 3.11, and ensure a successful deployment on Streamlit Cloud. Below is the corrected `requirements.txt` and detailed instructions.
+
+### Corrected `requirements.txt`
+Based on your local `requirements.txt` and the need to resolve the issues (numpy conflict, TensorFlow incompatibility, missing `distutils`, and incomplete dependency list), here’s the updated version:
