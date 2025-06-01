@@ -7,3 +7,6 @@ moviepy
 tensorflow
 tensorflow-hub
 opencv-python-headless
+pandas
+motmetrics
+scikit-learn
