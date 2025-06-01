@@ -2,7 +2,6 @@ streamlit
 torch==2.0.1
 ultralytics
 opencv-python
-numpy
 moviepy
 tensorflow
 tensorflow-hub
@@ -11,4 +10,6 @@ pandas
 motmetrics
 scikit-learn
 seaborn
+moviepy
+numpy<2.0
 moviepy
