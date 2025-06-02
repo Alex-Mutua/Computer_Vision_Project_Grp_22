@@ -1,4 +1,4 @@
-# Real-Time Object Detection and Tracking with Audio and Motion Analysis
+# Real-Time Object Detection and Tracking with Audio and Motion Analysis 
 
 
 This repository contains the source code for **Computer Vision Project 2** at AIMS Senegal, May 2025. The system detects and tracks urban objects (traffic lights, cars, police cars, persons, buses, trucks, bicycles, motorcycles) in one-minute videos, with siren-based filtering, motion analysis, and heatmaps. Built with **YOLOv11n**, **ByteTrack**, and **Streamlit**, it meets requirements for real-time processing, evaluation, and interactivity.
